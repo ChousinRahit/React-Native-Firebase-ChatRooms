@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "504170705485",
+    "firebase_url": "https://rn-chat-61b1b.firebaseio.com",
+    "project_id": "rn-chat-61b1b",
+    "storage_bucket": "rn-chat-61b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504170705485:android:04cfafbe340a70d219a204",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504170705485-37j24jj9ire1bg4i9pvqdm95qidhavbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nScC7qH7YhIpBKbd96oJEItuGde3bGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504170705485-37j24jj9ire1bg4i9pvqdm95qidhavbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504170705485:android:7f29371f7f16177719a204",
+        "android_client_info": {
+          "package_name": "com.chatapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504170705485-37j24jj9ire1bg4i9pvqdm95qidhavbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nScC7qH7YhIpBKbd96oJEItuGde3bGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504170705485-37j24jj9ire1bg4i9pvqdm95qidhavbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504170705485:android:f2d410b11af9244219a204",
+        "android_client_info": {
+          "package_name": "com.fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504170705485-37j24jj9ire1bg4i9pvqdm95qidhavbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8nScC7qH7YhIpBKbd96oJEItuGde3bGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504170705485-37j24jj9ire1bg4i9pvqdm95qidhavbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
